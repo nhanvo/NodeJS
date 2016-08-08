@@ -1,0 +1,21 @@
+{
+  "name": "zellwk",
+  "version": "1.0.0",
+  "description": "This is demo about nodejs, express, mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "NhanVo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.4.2",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2"
+  }
+}
